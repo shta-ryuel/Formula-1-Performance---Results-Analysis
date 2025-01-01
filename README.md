@@ -63,7 +63,7 @@ pip install pandas matplotlib seaborn
 ## Usage
 1. Clone the repository.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shta-ryuel/Formula-1-Performance---Results-Analysis
    cd Formula-1-Performance---Results-Analysis
    ```
 
@@ -90,5 +90,3 @@ pip install pandas matplotlib seaborn
 This analysis is inspired by the thrill and complexity of Formula 1 racing. The data used is publicly available and meant for educational purposes.
 Link to original datasets: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 
-## License
-This project is licensed under the MIT License.
